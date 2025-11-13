@@ -1,5 +1,5 @@
 // Countdown functionality
-const targetDate = new Date('2025-12-27T00:00:00').getTime();
+const targetDate = new Date('2025-12-27T11:00:00').getTime();
 
 function updateCountdown() {
     const now = new Date().getTime();
