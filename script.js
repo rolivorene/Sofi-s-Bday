@@ -83,7 +83,7 @@ openLocationBtn.addEventListener('click', function() {
     } else if (selectedMap === 'google') {
         // Google Maps deep link format: google.navigation:q=LATITUDE,LONGITUDE
         // Or web format: https://www.google.com/maps/search/?api=1&query=LATITUDE,LONGITUDE
-        url = `https://maps.app.goo.gl/YjzTgWiA9mYSttpF7`;
+        url = `https://maps.app.goo.gl/qcCRzx3y8ytgkYbJ7`;
     }
 
     if (url) {
